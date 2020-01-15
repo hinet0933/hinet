@@ -23,7 +23,7 @@ var bot = linebot({
 //請填入 MySql Database 資訊
 var con = mysql.createConnection({
     host: "db4free.net",
-    user: "hinet0933",
+    user: "o985957591",
     password: "61150103",
     database: "hinet0933"
 });
